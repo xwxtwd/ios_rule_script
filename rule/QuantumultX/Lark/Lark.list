@@ -1,0 +1,22 @@
+# NAME: Lark
+
+# Lark 客户端域名白名单配置列表
+HOST-SUFFIX,larksuite.com,Lark
+HOST-SUFFIX,ibytedtos.com,Lark
+HOST-SUFFIX,byteoversea.com,Lark
+HOST-SUFFIX,larksuitecdn.com,Lark
+HOST-SUFFIX,larksuitepkg.com,Lark
+HOST-SUFFIX,zijieapi.com,Lark
+HOST-SUFFIX,volcvideos.com,Lark
+HOST-SUFFIX,bytevcloud.com,Lark
+HOST-SUFFIX,baseopendevx.com,Lark
+# 视频会议域名及 IP 白名单配置列表
+# 信令服务
+HOST-SUFFIX,larksuite.com ,Lark
+
+# 接口域名
+HOST,effect.snssdk.com,Lark
+# cdn 域名
+HOST,lf3-effectcdn-tos.byteeffecttos.com,Lark
+HOST,lf6-effectcdn-tos.byteeffecttos.com,Lark
+HOST,lf9-effectcdn-tos.byteeffecttos.com,Lark
